@@ -15,4 +15,3 @@ SQLAlchemy==0.9.3
 Werkzeug==0.9.4
 wheel==0.24.0
 WTForms==1.0.5
-gunicorn
